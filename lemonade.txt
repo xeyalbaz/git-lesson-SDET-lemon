@@ -2,3 +2,4 @@ limonata
 birinci olarak su ekle 
 sonra limon
 nane
+seker
